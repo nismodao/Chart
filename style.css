@@ -1,0 +1,52 @@
+body {
+  background-color: #4f5361;
+  font-family: "Helvetica",
+  color: white;
+}
+.hold {
+  width: 250px;
+}
+
+div.month {
+  display: inline-block;
+  font-size: 20px;
+  width: 200px;
+  margin: 0 auto;
+  color: white;
+  font-family: "Helvetica";
+  letter-spacing: 2px;
+  font-weight: 100;
+}
+
+.left {
+  margin-right: 25px;
+  font-size: 20px;
+  font-weight: 100;
+  margin-left: 60px;
+  color: white;
+}
+
+.left:hover {
+  opacity: 0.5
+}
+
+.right {
+  margin-left: 25px;
+  font-size: 20px;
+  color: white;
+}
+
+.right:hover {
+  opacity: 0.5
+}
+
+div.nav {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.root {
+  margin-top: 100px;
+}
