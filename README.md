@@ -7,3 +7,8 @@ Instructions:
 2. Open index.html in browser
 
 
+![preview](https://raw.githubusercontent.com/nismodao/Dashboard/master/temperature.png)
+
+![preview](https://raw.githubusercontent.com/nismodao/Dashboard/master/out.gif)
+
+
